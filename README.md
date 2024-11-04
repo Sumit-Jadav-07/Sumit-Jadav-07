@@ -6,7 +6,7 @@ Backend Developer
 - 👀 I’m interested in backend development, Java, Spring Boot, and creating innovative web applications.
 - 🌱 I’m currently learning advanced concepts in React and improving my skills in Spring Boot and database management.
 - 💞️ I’m looking to collaborate on exciting projects involving Java, Spring Boot, Hibernate, and any web development or full-stack opportunities.
-- 🧠  I'm learning a new React and Tailwind CSS
+- 🧠  I'm learning a React and Tailwind CSS
 - 📫 How to reach me: 
   - [Email](mailto:sumitjadav1807@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/sumit-jadav-805165306/)
