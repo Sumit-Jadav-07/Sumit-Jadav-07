@@ -44,7 +44,10 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a> &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+    <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="36" height="36" alt="VS Code" />
+  </a>
+  <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain" width="36" height="36" alt="VS Code" />
   </a>
 </p>
 
